@@ -12,7 +12,6 @@ class B extends C{
 
 class A extends B{
 	void test(){
-		super.test();
 		System.out.println("Inside class A");
 	}
 	
